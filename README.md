@@ -1,0 +1,1 @@
+cette application a été conçu pour permettre à un enseignant ou un utilisateur tiers d'enregistrer les etudiants ,les matières,classe puis attribuer les notes aux étudiants en fonction de leur classe et différentes matières
